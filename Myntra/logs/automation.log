@@ -1,0 +1,1980 @@
+2026-03-12 18:00:04 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 18:00:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 18:00:10 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 18:01:54 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 18:01:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 18:01:58 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 18:03:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 18:03:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 18:03:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 18:03:47 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC01_verifyProductsFromTextFile
+2026-03-12 18:03:48 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 18:06:48 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 18:06:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 18:06:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 18:06:55 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC01_verifyProductsFromTextFile
+2026-03-12 18:06:56 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 18:08:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 18:08:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 18:08:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 18:08:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 18:08:17 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 18:08:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 18:08:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 18:08:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 18:08:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 18:08:57 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 18:09:46 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 18:09:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 18:09:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 18:09:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 18:09:55 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 20:48:22 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 20:48:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 20:48:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 20:48:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 20:48:32 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 20:51:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 20:51:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 20:51:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 20:51:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC01_verifyProductsFromTextFile
+2026-03-12 20:51:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 20:51:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 20:51:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 20:51:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 20:51:49 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC01_verifyProductsFromTextFile
+2026-03-12 20:51:49 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 20:53:13 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 20:53:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 20:53:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 20:53:23 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC01_verifyProductsFromTextFile
+2026-03-12 20:53:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 20:54:52 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 20:54:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 20:54:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 20:55:00 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC01_verifyProductsFromTextFile
+2026-03-12 20:55:01 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 22:50:42 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 22:50:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 22:50:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 22:50:53 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC01_verifyProductsFromTextFile
+2026-03-12 22:50:54 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 22:52:04 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 22:52:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 22:52:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 22:52:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 22:52:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:08:54 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:08:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:09:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:09:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 23:09:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:09:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:14:20 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:14:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:14:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:14:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 23:14:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:14:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:14:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:14:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02invalidProductSearch
+2026-03-12 23:14:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:14:42 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:15:11 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:15:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:15:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:15:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02invalidProductSearch
+2026-03-12 23:15:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:15:21 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:17:20 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:17:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:17:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:17:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 23:17:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:17:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:17:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:17:42 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02invalidProductSearch
+2026-03-12 23:17:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:17:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:18:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:18:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:18:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:18:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 23:18:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:18:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:18:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:18:24 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02invalidProductSearch
+2026-03-12 23:18:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:18:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:18:38 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:18:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:18:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:18:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 23:18:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:18:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:18:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:19:01 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02invalidProductSearch
+2026-03-12 23:19:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:19:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:28:03 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:28:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:28:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:28:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 23:28:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:28:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:28:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:28:30 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-12 23:28:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:28:31 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-12 23:34:37 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-12 23:34:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:34:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:34:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-12 23:34:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:34:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-12 23:34:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-12 23:35:01 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-12 23:35:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-12 23:35:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 09:54:05 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 09:54:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 09:54:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 09:54:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-13 09:54:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 09:54:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 09:54:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 09:54:25 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 09:54:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 09:54:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 09:54:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 09:54:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 09:54:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 09:54:33 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 10:06:44 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 10:06:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:06:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:06:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-13 10:06:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:06:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:07:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:07:03 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 10:07:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:07:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:07:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:07:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 10:07:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:07:07 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 10:07:21 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 10:07:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:07:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:07:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-13 10:07:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:07:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:07:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:07:43 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 10:07:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:07:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:07:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:07:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 10:07:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:07:51 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 10:08:30 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 10:08:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:08:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:08:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-13 10:08:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:08:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:08:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:08:46 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 10:08:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:08:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:08:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:08:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 10:08:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:08:51 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 10:12:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 10:12:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:12:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:12:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-13 10:12:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:12:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:12:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:12:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-13 10:12:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:12:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 10:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 10:19:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 10:19:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:19:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:19:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-13 10:19:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:19:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:19:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:19:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-13 10:19:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:19:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:19:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:19:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-13 10:19:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:20:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:20:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:20:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 10:20:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:20:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:20:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:20:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 10:20:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:20:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 10:23:00 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 10:23:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:23:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:23:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC01_verifyProductsFromTextFile
+2026-03-13 10:23:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:23:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:23:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:23:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-13 10:23:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:23:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:23:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:23:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-13 10:23:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:23:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:23:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:23:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 10:23:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:23:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 10:23:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 10:23:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 10:23:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 10:23:36 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 11:50:31 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 11:50:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 11:50:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 11:50:36 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 11:50:36 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 11:50:36 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 11:50:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 11:50:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 11:50:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 11:50:41 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 11:50:41 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 11:50:41 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 11:50:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 11:50:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 11:50:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 11:50:46 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 11:50:46 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 11:50:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 11:50:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 11:50:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 11:50:51 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-13 11:50:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 11:50:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 11:50:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 11:50:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 11:50:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 11:50:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 11:50:55 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 12:04:01 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 12:04:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:04:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:04:06 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 12:04:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 12:04:06 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 12:04:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:04:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:04:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:04:11 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 12:04:11 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 12:04:11 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 12:04:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:04:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:04:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:04:15 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 12:04:15 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 12:04:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:04:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:04:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:04:20 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-13 12:04:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 12:04:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:04:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:04:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:04:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 12:04:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:04:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 12:09:31 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 12:09:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:09:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:09:35 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 12:09:35 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 12:09:35 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 12:09:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:09:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:09:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:09:41 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 12:09:41 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 12:09:41 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 12:09:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:09:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:09:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:09:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 12:09:47 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 12:09:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:09:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:09:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:09:54 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-13 12:09:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 12:09:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:09:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:09:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:09:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 12:09:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:09:59 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 12:16:54 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 12:16:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:17:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:17:13 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 12:17:13 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 12:17:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 12:17:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 12:17:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:17:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:17:32 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 12:17:32 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 12:17:32 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 12:56:57 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 12:56:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:57:17 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 12:57:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:23 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 12:58:24 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 12:58:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:25 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 12:58:25 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 12:58:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:36 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 12:58:36 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 12:58:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:36 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 12:58:37 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 12:58:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:45 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 12:58:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:45 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 12:58:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:50 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 12:58:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:52 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-13 12:58:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 12:58:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:58:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:58:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 12:58:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:58:56 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 12:59:07 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 12:59:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:59:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:59:13 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 12:59:13 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 12:59:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:59:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:59:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:59:18 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 12:59:18 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 12:59:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:59:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:59:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:59:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 12:59:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:59:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:59:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:59:27 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-13 12:59:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 12:59:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:59:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 12:59:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 12:59:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 12:59:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 12:59:32 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 13:04:17 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 13:04:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:04:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:04:23 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 13:04:23 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 13:04:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:04:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:04:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:04:29 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 13:04:29 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 13:04:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:04:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:04:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:04:35 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 13:04:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:04:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:04:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:04:41 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-13 13:04:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 13:04:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:04:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:04:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:04:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 13:04:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:04:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-13 13:07:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-13 13:07:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:07:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:07:46 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-13 13:07:46 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 13:07:46 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-13 13:07:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:07:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:07:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:07:52 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-13 13:07:52 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 13:07:52 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-13 13:07:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:07:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:07:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:07:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-13 13:07:58 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-13 13:07:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:07:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:08:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:08:04 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-13 13:08:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-13 13:08:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:08:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-13 13:08:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-13 13:08:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-13 13:08:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-13 13:08:10 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 09:39:38 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 09:39:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:39:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:39:45 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-14 09:39:45 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:39:45 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC03_verifyProductsFromTextFile
+2026-03-14 09:39:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:39:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:39:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:39:51 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-14 09:39:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:39:51 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02SearchProduct
+2026-03-14 09:39:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:39:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:39:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:39:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:39:58 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-14 09:39:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:40:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:40:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:40:05 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-14 09:40:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 09:40:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:40:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:40:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:40:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 09:40:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:40:11 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 09:47:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 09:47:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:47:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:47:45 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-14 09:47:45 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:47:47 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 09:47:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:47:49 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 09:47:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:47:50 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 09:47:50 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:47:52 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 09:47:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 09:47:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:47:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:47:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:47:58 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-14 09:47:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:47:59 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 09:47:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 09:47:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:48:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:48:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:48:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 09:48:05 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 09:48:06 INFO  Hackthon.com.Myntra.tests.ProductTest - Invalid product search verified successfully
+2026-03-14 09:48:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 09:48:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:48:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:48:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:48:11 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-14 09:48:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 09:48:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:48:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 09:48:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 09:48:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 09:48:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 09:48:16 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 10:11:19 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 10:11:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:11:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:11:25 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-14 10:11:25 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:11:27 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:11:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:11:29 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:11:29 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:11:31 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:11:31 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:11:33 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:11:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 10:11:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:11:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:11:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:11:38 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-14 10:11:38 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:11:40 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:11:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 10:11:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:11:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:11:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:11:45 INFO  Hackthon.com.Myntra.tests.ProductTest - Add Product into card
+2026-03-14 10:11:55 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03AddToCard
+2026-03-14 10:11:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:11:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:12:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:12:01 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:12:03 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 10:12:03 INFO  Hackthon.com.Myntra.tests.ProductTest - Invalid product search verified successfully
+2026-03-14 10:12:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 10:12:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:12:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:12:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:12:08 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-14 10:12:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 10:12:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:12:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:12:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:12:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 10:12:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:12:13 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 10:13:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 10:13:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:13:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:13:48 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search product from textfile
+2026-03-14 10:13:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:13:51 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:13:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:13:53 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:13:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:13:55 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:13:55 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:13:57 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:13:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 10:13:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:13:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:14:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:14:02 INFO  Hackthon.com.Myntra.tests.ProductTest - First Search the protuct
+2026-03-14 10:14:02 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:14:04 INFO  Hackthon.com.Myntra.tests.ProductTest - Product searched successfully
+2026-03-14 10:14:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 10:14:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:14:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:14:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:14:08 INFO  Hackthon.com.Myntra.tests.ProductTest - Add Product into card
+2026-03-14 10:14:08 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:14:23 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03AddToCard
+2026-03-14 10:14:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:14:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:15:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:15:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 10:15:06 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 10:15:07 INFO  Hackthon.com.Myntra.tests.ProductTest - Invalid product search verified successfully
+2026-03-14 10:15:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 10:15:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:15:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:15:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:15:48 INFO  Hackthon.com.Myntra.tests.ProductTest - Empty search Successfully
+2026-03-14 10:15:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 10:15:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:15:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 10:16:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 10:16:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 10:16:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 10:16:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 20:25:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 20:25:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:25:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:25:32 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 20:25:32 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:25:35 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:25:35 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:25:37 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:25:37 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:25:39 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:25:39 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:25:41 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:25:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 20:25:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:25:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:25:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:25:46 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 20:25:46 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:25:48 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:25:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 20:25:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:25:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:25:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:25:53 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 20:25:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:26:05 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03AddToCard
+2026-03-14 20:26:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:26:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:26:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:26:14 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:26:19 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 20:26:20 INFO  Hackthon.com.Myntra.tests.AllTest - Invalid product search verified successfully
+2026-03-14 20:26:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 20:26:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:26:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:26:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:26:27 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 20:26:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 20:26:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:26:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:26:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:26:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 20:26:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:26:32 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 20:38:34 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 20:38:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:39:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:39:15 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 20:39:15 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:39:33 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:39:33 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:39:49 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:39:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:40:02 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:40:02 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:40:17 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:40:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 20:40:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:40:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:40:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:40:56 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 20:40:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:41:04 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:41:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 20:41:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:41:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:41:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:41:58 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 20:41:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:42:18 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03AddToCard
+2026-03-14 20:42:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:42:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:42:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:42:54 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:43:07 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 20:43:08 INFO  Hackthon.com.Myntra.tests.AllTest - Invalid product search verified successfully
+2026-03-14 20:43:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 20:43:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:43:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:43:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:43:40 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 20:43:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 20:43:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:43:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:44:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:44:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 20:44:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:44:09 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 20:48:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 20:48:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:48:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:48:47 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 20:48:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:48:50 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:48:50 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:48:52 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:48:52 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:48:54 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:48:54 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:48:56 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:48:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 20:48:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:48:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:49:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:49:02 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 20:49:02 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:49:04 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:49:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 20:49:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:49:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:49:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:49:10 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 20:49:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:49:23 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03AddToCard
+2026-03-14 20:49:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:49:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:49:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:49:30 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:49:32 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 20:49:33 INFO  Hackthon.com.Myntra.tests.AllTest - Invalid product search verified successfully
+2026-03-14 20:49:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 20:49:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:49:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:49:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:49:39 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 20:49:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 20:49:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:49:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:49:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:49:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 20:49:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:49:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 20:55:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 20:55:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:55:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:55:50 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 20:55:50 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:55:53 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:55:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:55:56 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:55:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:55:58 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:55:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:55:59 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:55:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 20:55:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:56:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:56:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:56:05 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 20:56:05 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:56:07 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:56:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 20:56:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:56:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:56:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:56:13 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 20:56:13 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:56:17 INFO  Hackthon.com.Myntra.tests.AllTest -  add to card  successfully
+2026-03-14 20:56:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_03AddToCard
+2026-03-14 20:56:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:56:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:56:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:56:23 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:56:25 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 20:56:26 INFO  Hackthon.com.Myntra.tests.AllTest - Invalid product search verified successfully
+2026-03-14 20:56:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 20:56:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:56:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:56:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:56:33 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 20:56:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 20:56:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:56:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:56:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:56:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 20:56:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:56:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 20:56:56 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 20:56:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:57:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:57:03 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 20:57:03 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:57:06 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:57:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:57:08 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:57:08 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:57:10 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:57:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:57:12 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:57:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 20:57:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:57:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:57:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:57:18 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 20:57:18 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:57:20 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:57:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 20:57:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:57:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:57:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:57:28 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 20:57:28 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:57:32 INFO  Hackthon.com.Myntra.tests.AllTest -  add to card  successfully
+2026-03-14 20:57:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_03AddToCard
+2026-03-14 20:57:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:57:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:57:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:57:40 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:57:46 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_06invalidProductSearch
+2026-03-14 20:57:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:57:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:57:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:57:54 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 20:57:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 20:57:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:57:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:58:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:58:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 20:58:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 20:58:01 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 20:59:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 20:59:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 20:59:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 20:59:53 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 20:59:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:59:57 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:59:57 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 20:59:59 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 20:59:59 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:00:05 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:00:05 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:00:12 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:00:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 21:00:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:00:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:00:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:00:19 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 21:00:19 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:00:21 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:00:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 21:00:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:00:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:00:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:00:33 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 21:00:33 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:00:39 INFO  Hackthon.com.Myntra.tests.AllTest -  add to card  successfully
+2026-03-14 21:00:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_03AddToCard
+2026-03-14 21:00:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:00:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:00:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:00:46 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:00:49 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 21:00:50 INFO  Hackthon.com.Myntra.tests.AllTest - Invalid product search verified successfully
+2026-03-14 21:00:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 21:00:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:00:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:01:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:01:02 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 21:01:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 21:01:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:01:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:01:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:01:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 21:01:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:01:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 21:10:31 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 21:10:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:10:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:10:38 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 21:10:38 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:10:44 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:10:44 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:10:46 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:10:46 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:10:49 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:10:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:10:51 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:10:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC03_verifyProductsFromTextFile
+2026-03-14 21:10:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:10:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:11:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:11:02 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 21:11:02 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:11:04 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:11:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 21:11:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:11:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:11:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:11:16 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 21:11:16 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:11:28 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:11:39 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:11:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:12:15 INFO  Hackthon.com.Myntra.tests.AllTest -  add to card  successfully
+2026-03-14 21:12:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_03AddToCard
+2026-03-14 21:12:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:12:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:12:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:12:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:12:30 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 21:12:32 INFO  Hackthon.com.Myntra.tests.AllTest - Invalid product search verified successfully
+2026-03-14 21:12:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 21:12:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:12:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:12:45 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 21:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 21:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:12:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:13:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:13:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 21:13:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:13:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 21:48:34 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 21:48:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:48:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:48:41 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 21:48:41 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:48:45 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:48:45 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:48:47 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:48:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:48:49 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:48:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:48:50 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:48:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC04_addMultipleProductsFromTextFile
+2026-03-14 21:48:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:48:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:49:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:49:00 INFO  Hackthon.com.Myntra.tests.AllTest - First Search the protuct
+2026-03-14 21:49:00 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:49:43 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:49:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02SearchProduct
+2026-03-14 21:49:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:49:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:49:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:49:49 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03AddToCard
+2026-03-14 21:49:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:49:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:49:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:49:56 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 21:49:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:49:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:50:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:50:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:50:48 INFO  Hackthon.com.Myntra.pages.HomePage - Btn to be clickable
+2026-03-14 21:50:49 INFO  Hackthon.com.Myntra.tests.AllTest - Invalid product search verified successfully
+2026-03-14 21:50:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_06invalidProductSearch
+2026-03-14 21:50:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:50:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:50:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:50:56 INFO  Hackthon.com.Myntra.tests.AllTest - Empty search Successfully
+2026-03-14 21:50:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_09emptyFile
+2026-03-14 21:50:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:50:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:51:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:51:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-14 21:51:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:51:06 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 21:53:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 21:53:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:53:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:53:49 INFO  Hackthon.com.Myntra.tests.AllTest - First Search product from textfile
+2026-03-14 21:53:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:53:52 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:53:52 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:53:55 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:53:55 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:53:57 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:53:57 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:54:00 INFO  Hackthon.com.Myntra.tests.AllTest - Product searched successfully
+2026-03-14 21:54:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC04_addMultipleProductsFromTextFile
+2026-03-14 21:54:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:54:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:54:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:54:55 INFO  Hackthon.com.Myntra.tests.AllTest - Add Product into card
+2026-03-14 21:54:55 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:55:03 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:55:16 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:55:37 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:55:58 INFO  Hackthon.com.Myntra.tests.AllTest -  add to card  successfully
+2026-03-14 21:55:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_03AddToCard
+2026-03-14 21:55:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:55:58 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 21:57:52 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 21:57:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 21:58:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 21:58:43 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 21:58:43 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 21:58:56 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-14 21:58:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-14 21:58:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 21:58:57 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 22:10:28 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 22:10:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 22:10:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 22:10:35 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 22:10:35 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 22:10:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 22:10:36 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 22:11:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 22:11:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 22:11:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 22:11:43 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 22:11:43 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 22:11:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 22:11:44 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 22:13:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 22:13:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 22:13:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 22:13:41 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 22:13:41 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 22:13:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 22:14:03 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 22:14:03 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 22:16:41 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 22:16:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 22:16:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 22:16:48 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 22:16:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 22:16:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 22:16:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 22:17:02 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 22:17:09 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 22:17:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 22:17:10 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:40:57 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:40:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:41:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:41:06 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:41:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:41:14 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:41:24 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:41:29 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:41:38 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-14 23:41:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-14 23:41:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:41:39 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:44:04 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:44:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:44:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:44:11 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:44:11 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:44:18 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:44:22 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:44:26 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:44:36 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 23:44:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:44:37 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:45:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:45:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:45:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:45:21 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:45:21 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:45:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:45:32 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:45:36 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:45:47 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-14 23:45:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-14 23:45:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:45:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:46:52 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:46:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:47:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:47:01 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:47:01 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:47:08 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:47:13 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:47:19 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:47:26 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 23:47:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:47:27 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:47:58 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:47:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:48:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:48:04 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:48:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:48:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:48:15 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:48:20 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:48:27 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 23:48:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:48:28 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:48:50 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:48:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:48:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:48:57 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:48:57 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:49:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:49:14 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:49:20 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:49:29 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 23:49:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:49:30 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:49:51 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:49:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:49:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:49:59 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:49:59 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:50:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:50:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:50:15 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:50:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 23:50:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:50:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:50:52 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:50:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:50:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:50:59 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:50:59 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:51:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:51:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:51:14 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:51:24 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-14 23:51:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-14 23:51:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:51:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:51:48 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:51:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:51:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:51:55 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:51:55 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:52:02 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:52:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:52:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:52:24 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-14 23:52:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:52:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-14 23:52:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-14 23:52:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-14 23:52:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-14 23:52:51 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-14 23:52:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:52:57 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:53:02 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:53:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-14 23:53:16 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-14 23:53:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-14 23:53:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-14 23:53:17 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:00:05 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:00:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:00:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:00:29 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:00:29 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:00:49 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-15 00:01:04 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:01:12 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:01:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:01:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:01:20 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:01:20 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:01:26 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:01:31 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:01:35 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:01:52 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-15 00:01:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-15 00:01:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 00:01:53 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:02:21 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:02:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:02:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:02:27 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:02:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:02:35 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:02:39 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:02:44 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:03:02 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_05removeProductAddCard
+2026-03-15 00:03:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:03:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:03:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:03:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:03:21 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:03:21 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:03:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:03:31 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:03:52 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:04:10 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-15 00:04:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-15 00:04:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 00:04:10 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:07:38 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:07:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:07:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:07:47 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:07:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:07:55 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:08:00 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:08:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:08:22 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-15 00:08:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_05removeProductAddCard
+2026-03-15 00:08:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 00:08:22 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:14:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:14:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:14:37 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:14:37 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:15:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:15:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:15:53 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:15:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:16:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:16:00 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:16:00 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:16:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:16:11 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:16:15 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:16:23 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-15 00:16:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_07CrossPopups
+2026-03-15 00:16:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 00:16:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:16:44 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:16:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:16:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:16:51 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:16:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:16:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:17:03 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:17:09 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:17:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_07CrossPopups
+2026-03-15 00:17:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 00:17:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:17:39 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:17:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:17:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 00:17:56 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 00:17:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 00:18:04 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_07CrossPopups
+2026-03-15 00:18:05 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 00:18:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 00:18:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 00:18:12 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 12:59:38 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 12:59:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 12:59:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 12:59:49 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 12:59:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 12:59:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 13:00:01 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 13:00:08 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 13:00:18 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-15 13:00:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_07CrossPopups
+2026-03-15 13:00:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 13:00:19 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 13:45:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 13:45:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 13:45:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 13:45:33 INFO  Hackthon.com.Myntra.tests.AllTest - To remmove product from card
+2026-03-15 13:45:33 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 13:45:39 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 13:45:45 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 13:45:50 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 13:46:01 INFO  Hackthon.com.Myntra.tests.AllTest - Product removed Successfully
+2026-03-15 13:46:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_07CrossPopups
+2026-03-15 13:46:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 13:46:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 14:00:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 14:00:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 14:00:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 14:00:24 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC08_EmptyCardpage
+2026-03-15 14:00:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 14:00:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 14:05:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 14:05:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 14:05:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 14:05:42 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC08_EmptyCardpage
+2026-03-15 14:05:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 14:05:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 14:07:32 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 14:07:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 14:07:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 14:07:39 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC08_EmptyCardpage
+2026-03-15 14:07:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 14:07:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 14:09:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 14:09:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 14:09:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 14:09:25 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC08_EmptyCardpage
+2026-03-15 14:09:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 14:09:26 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 14:14:16 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 14:14:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 14:14:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 14:14:23 INFO  Hackthon.com.Myntra.tests.AllTest - Card is successfully empty verified
+2026-03-15 14:14:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC08_EmptyCardpage
+2026-03-15 14:14:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 14:14:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:09:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:09:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:09:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:09:23 INFO  Hackthon.com.Myntra.tests.AllTest - Card is successfully empty verified
+2026-03-15 16:09:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC08_EmptyCardpage
+2026-03-15 16:09:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:09:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:09:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:09:39 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 16:09:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:09:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:14:33 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:14:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:14:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:14:40 INFO  Hackthon.com.Myntra.tests.AllTest - Card is successfully empty verified
+2026-03-15 16:14:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC08_EmptyCardpage
+2026-03-15 16:14:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:14:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:14:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:14:46 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:15:10 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 16:15:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:15:11 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:18:15 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:18:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:18:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:18:22 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:18:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-15 16:18:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:18:30 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:19:04 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:19:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:19:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:19:09 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:19:13 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:19:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-15 16:19:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:19:22 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:22:36 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:22:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:22:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:22:39 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:22:41 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 16:22:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:22:42 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:23:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:23:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:23:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:23:07 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:23:08 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 16:23:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:23:09 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:23:51 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:23:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:23:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:23:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:23:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:24:03 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:24:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:24:26 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:24:31 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 16:24:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:24:32 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:24:44 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:24:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:24:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:24:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:24:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:24:57 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:25:01 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:25:07 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:25:14 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 16:25:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:25:19 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 16:27:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 16:27:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 16:27:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 16:27:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:28:01 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:28:07 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:28:13 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 16:28:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 16:28:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 16:28:26 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 21:40:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 21:40:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 21:40:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 21:40:17 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 21:40:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-15 21:40:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 21:40:31 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 21:41:10 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 21:41:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 21:41:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 21:41:16 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 21:41:22 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 21:41:29 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 21:41:38 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 21:41:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 21:41:39 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-15 21:53:59 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-15 21:53:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-15 21:54:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-15 21:54:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 21:54:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 21:54:16 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-15 21:54:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-15 21:54:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-15 21:54:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 09:54:27 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 09:54:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 09:54:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 09:54:36 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 09:54:41 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 09:54:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 09:54:56 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 09:54:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 09:54:59 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 10:18:07 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 10:18:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 10:18:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 10:18:12 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 10:18:18 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 10:18:24 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 10:18:30 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 10:18:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 10:18:31 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 10:20:01 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 10:20:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 10:20:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 10:20:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 10:20:10 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 10:20:16 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 10:20:42 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 10:20:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 10:20:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 11:59:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 11:59:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 11:59:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 11:59:35 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: verifyBadgeCountAfterRemove
+2026-03-16 11:59:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 11:59:36 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:04:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:04:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:04:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:04:22 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:04:29 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:04:37 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:04:43 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:04:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:04:44 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:06:36 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:06:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:06:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:06:42 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:06:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:06:55 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:07:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_10CardBadge
+2026-03-16 12:07:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:07:01 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:24:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:24:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:24:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:24:42 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:24:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:24:55 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:25:03 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:25:03 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:25:04 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:28:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:28:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:28:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:28:31 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:28:37 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:28:43 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:28:51 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:28:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:28:52 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:30:28 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:30:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:30:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:30:34 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:30:40 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:30:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:30:55 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:30:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:30:56 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:41:15 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:41:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:41:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:41:21 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:41:28 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:41:35 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:41:42 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:41:50 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:41:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:41:51 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:49:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:49:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:49:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:49:14 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:49:20 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:49:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:49:33 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:49:40 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:49:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:49:41 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:50:33 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:50:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:50:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:50:39 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:50:45 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:50:52 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:50:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:51:06 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:51:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:51:07 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 12:56:32 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 12:56:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 12:56:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 12:56:37 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:56:45 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:56:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:56:58 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 12:57:05 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 12:57:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 12:57:06 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:00:37 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:00:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:00:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:00:44 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:00:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:00:57 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:01:05 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:01:12 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:01:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:01:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:02:01 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:02:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:02:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:02:08 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:02:14 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:02:21 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:02:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:02:37 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:02:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:02:38 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:04:19 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:04:19 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:04:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:04:25 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:04:32 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:04:39 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:04:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:04:54 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:04:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:04:55 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:21:44 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:21:44 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:21:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:21:50 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:21:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:22:05 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:22:11 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:22:19 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:22:20 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:22:21 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:24:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:24:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:24:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:24:08 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:24:14 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:24:21 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:24:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:24:34 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:24:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:24:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:29:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:29:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:29:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:29:29 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:29:36 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:29:43 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:29:49 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:29:57 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:29:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:29:58 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:31:09 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:31:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:31:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:31:16 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:31:22 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:31:31 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:31:36 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:31:46 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:31:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:31:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:33:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:33:36 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:33:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:33:41 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:33:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:33:54 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:34:00 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:34:08 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:34:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:34:09 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:34:29 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:34:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:34:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:34:35 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:34:41 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:34:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:34:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:35:01 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:35:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:35:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:36:22 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:36:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:36:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:36:27 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:36:34 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:36:40 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:36:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:37:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:37:22 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 13:37:34 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 13:37:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 13:37:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 13:37:40 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:37:47 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:37:54 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:37:59 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 13:38:37 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 13:38:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 13:38:38 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 14:59:00 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 14:59:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 14:59:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 14:59:07 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 14:59:13 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 14:59:20 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 14:59:26 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 14:59:35 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 14:59:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 14:59:36 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 17:16:41 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 17:16:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 17:16:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 17:16:50 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:16:56 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:17:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:17:09 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:17:17 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 17:17:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 17:17:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 17:18:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 17:18:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 17:18:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 17:18:32 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:18:38 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:18:45 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:18:51 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:18:58 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 17:18:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 17:18:59 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 17:22:06 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 17:22:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 17:22:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 17:22:11 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:18 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:23 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:33 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:37 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:43 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:48 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:53 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:22:59 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:23:04 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:23:11 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:23:16 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:23:22 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:23:31 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 17:23:32 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 17:23:33 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 17:24:02 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 17:24:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 17:24:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 17:24:07 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:24:13 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:24:19 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:24:24 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:24:31 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 17:24:31 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 17:24:31 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-16 17:30:55 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-16 17:30:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-16 17:31:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-16 17:31:00 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:31:06 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:31:12 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:31:17 INFO  Hackthon.com.Myntra.pages.HomePage - Search the Element
+2026-03-16 17:31:24 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_10CardBadge
+2026-03-16 17:31:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-16 17:31:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 11:37:57 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 11:37:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 11:38:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 11:38:05 INFO  Hackthon.com.Myntra.tests.SortProductTest - Test product listing page
+2026-03-17 11:38:05 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 11:38:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 11:38:06 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 11:39:43 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 11:39:43 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 11:39:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 11:39:48 INFO  Hackthon.com.Myntra.tests.SortProductTest - Test product listing page
+2026-03-17 11:39:48 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 11:39:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 11:39:49 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 11:41:11 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 11:41:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 11:41:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 11:41:17 INFO  Hackthon.com.Myntra.tests.SortProductTest - Test product listing page
+2026-03-17 11:41:17 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 11:41:18 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 11:41:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 11:42:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 11:42:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 11:42:21 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 11:42:21 INFO  Hackthon.com.Myntra.tests.SortProductTest - Test product listing page
+2026-03-17 11:42:34 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 11:42:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 11:42:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 11:49:17 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 11:49:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 11:49:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 11:49:26 INFO  Hackthon.com.Myntra.tests.SortProductTest - Test product listing page
+2026-03-17 11:49:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 11:49:33 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 11:49:33 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 12:00:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 12:00:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 12:00:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 12:00:41 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 12:00:53 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 12:00:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 12:00:56 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 12:01:25 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 12:01:25 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 12:01:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 12:01:31 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 12:01:46 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Successfully naviagate to the Man T-shirt
+2026-03-17 12:01:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 12:01:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 12:01:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 12:01:55 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 12:01:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 12:02:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 12:02:01 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 12:02:13 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 12:02:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 12:02:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 12:03:08 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 12:03:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 12:03:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 12:03:13 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 12:03:23 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 12:03:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 12:03:37 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 12:03:37 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 12:03:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 12:03:42 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 12:03:46 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Successfully naviagate to the Man T-shirt
+2026-03-17 12:03:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 12:03:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 12:03:47 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 14:48:59 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 14:48:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 14:49:06 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 14:49:06 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 14:49:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 14:49:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 14:49:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 14:49:11 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 14:49:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 14:49:12 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 14:49:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 14:49:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 14:49:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 14:49:29 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 14:49:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 14:49:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 14:49:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 14:49:34 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 14:49:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 14:49:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 14:51:01 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 14:51:01 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 14:51:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 14:51:07 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 14:51:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 14:51:07 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 14:51:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 14:51:12 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 14:51:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 14:51:13 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 15:43:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 15:43:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:43:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:43:39 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 15:43:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:43:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:43:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:43:45 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 15:43:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:43:45 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:43:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:43:49 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 15:43:49 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:43:50 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 15:44:46 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 15:44:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:44:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:44:51 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 15:44:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:44:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:44:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:44:56 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 15:44:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:44:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:44:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:44:59 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 15:45:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:45:00 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 15:58:24 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 15:58:24 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:58:29 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:58:29 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 15:58:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:58:30 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:58:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:58:34 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 15:58:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:58:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 15:58:38 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 15:58:38 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 15:58:39 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 15:58:40 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 16:02:46 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 16:02:46 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 16:02:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 16:02:50 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 16:02:50 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 16:02:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 16:02:51 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 16:02:54 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 16:02:54 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 16:02:54 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 16:02:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 16:02:55 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 16:02:58 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 16:02:58 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 16:02:58 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 16:02:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 16:03:00 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 22:26:00 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 22:26:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 22:26:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 22:26:10 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 22:26:10 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_01ProductListning
+2026-03-17 22:26:10 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 22:26:11 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 22:26:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 22:26:16 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 22:26:16 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_02captureFirstFiveProductPrice
+2026-03-17 22:26:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 22:26:16 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 22:26:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 22:26:22 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 22:26:22 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 22:26:22 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 22:26:23 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 22:28:28 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 22:28:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 22:29:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 22:29:13 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 22:29:26 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Successfully naviagate to the Man T-shirt
+2026-03-17 22:29:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 22:29:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 22:29:26 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 22:29:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 22:29:34 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 22:29:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02captureFirstFiveProductPrice
+2026-03-17 22:29:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 22:29:41 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 22:29:50 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 22:29:50 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 22:30:13 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 22:30:13 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 22:30:14 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 23:33:00 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 23:33:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:33:09 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:33:10 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 23:33:14 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Successfully naviagate to the Man T-shirt
+2026-03-17 23:33:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 23:33:14 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:33:15 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:33:23 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:33:23 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:33:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02captureFirstFiveProductPrice
+2026-03-17 23:33:27 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:33:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:33:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:33:40 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:33:56 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 23:33:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:33:57 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 23:36:42 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 23:36:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:36:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:36:47 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 23:36:52 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Successfully naviagate to the Man T-shirt
+2026-03-17 23:36:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 23:36:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:36:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:37:00 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:37:00 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:37:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02captureFirstFiveProductPrice
+2026-03-17 23:37:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:37:05 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:37:12 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:37:12 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:37:17 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 23:37:17 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:37:18 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 23:38:28 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 23:38:28 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:38:34 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:38:34 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 23:38:40 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Successfully naviagate to the Man T-shirt
+2026-03-17 23:38:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 23:38:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:38:40 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:38:48 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:38:48 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:38:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02captureFirstFiveProductPrice
+2026-03-17 23:38:52 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:38:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:38:59 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:38:59 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:39:04 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 23:39:04 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:39:05 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========
+2026-03-17 23:39:35 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Started ==========
+2026-03-17 23:39:35 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:39:42 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:39:42 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Test product listing page
+2026-03-17 23:39:47 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - Successfully naviagate to the Man T-shirt
+2026-03-17 23:39:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_01ProductListning
+2026-03-17 23:39:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:39:47 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:39:53 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:39:53 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:39:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Test Passed: TC_02captureFirstFiveProductPrice
+2026-03-17 23:39:56 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:39:57 INFO  Hackthon.com.Myntra.tests.BaseTest - Launching browser
+2026-03-17 23:40:02 INFO  Hackthon.com.Myntra.tests.BaseTest - Navigated to: https://www.myntra.com/
+2026-03-17 23:40:02 INFO  Hackthon.com.Myntra.tests.TC_02SortProductTest - price of first fice product
+2026-03-17 23:40:07 ERROR Hackthon.com.Myntra.tests.BaseTest - Test Failed: TC_03PriceLowToHigh
+2026-03-17 23:40:08 INFO  Hackthon.com.Myntra.tests.BaseTest - Browser closed
+2026-03-17 23:40:09 INFO  Hackthon.com.Myntra.tests.BaseTest - ========== Test Suite Finished ==========

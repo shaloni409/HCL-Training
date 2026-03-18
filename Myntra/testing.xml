@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TIT Suite">
+
+    <test name="Ecommerce  Tests">
+
+        <classes>
+            <class name="Hackthon.com.Amazon2.LoginTest"/>
+                        <class name="Hackthon.com.Amazon.HomePageTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
